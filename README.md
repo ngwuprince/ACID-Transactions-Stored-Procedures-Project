@@ -29,7 +29,6 @@ Scenario: Buying a pair of Boots for Rose from ShoeShop.
 The transaction was rolled back due to insufficient funds when attempting to buy Trainers, demonstrating the effectiveness of ACID transactions in preventing partial data updates.
 
 2. TRANSACTION_JAMES Stored Procedure
-
 Scenario: Purchasing four pairs of Trainers for James from ShoeShop.
 
 **Operations:**
